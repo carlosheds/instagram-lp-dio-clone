@@ -1,5 +1,7 @@
 Projeto <strong>Recriando a página inicial do Instagram</strong> , Bootcamp HTML Web Developer, [Digital Innovation One](https://web.digitalinnovation.one/home)
 
+## [Resultado](https://carlosheds.github.io/instagram-lp-dio-clone/)
+
 ## Tecnologias
 * HTML 5
 * CSS
